@@ -54,7 +54,7 @@
 
 # Ventangle
 
-![](./Ventangle汉化.assets/Ventangle.png)
+![](./Ventangle汉化.assets/Ventangle.webp)
 
 ### 24世纪，堕落的熔炉
 
