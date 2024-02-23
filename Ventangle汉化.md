@@ -54,6 +54,8 @@
 
 # Ventangle
 
+![](./Ventangle汉化.assets/Ventangle.png)
+
 ### 24世纪，堕落的熔炉
 
 已然不会发生全面战争。
