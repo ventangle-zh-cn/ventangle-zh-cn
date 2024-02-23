@@ -700,6 +700,6 @@
 
 ### 剧本：DEAD GAME
 
-### 剧本：DEAD GAME
+### 剧本：KILLING GAME
 
 ### 索引
